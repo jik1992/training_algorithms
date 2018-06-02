@@ -91,10 +91,8 @@ fabric.properties
 hs_err_pid*
 
 .idea/
-code/code.iml
-code/pom.xml
-code/src/main/resources/
-code/src/test/
-code/target/
-qa/
-training_leetcode.iml
+leetcode/code.iml
+leetcode/src/test/
+leetcode/target/
+training_algorithms.iml
+main.iml
