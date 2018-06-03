@@ -92,7 +92,6 @@ hs_err_pid*
 
 .idea/
 leetcode/code.iml
-leetcode/src/test/
 leetcode/target/
 training_algorithms.iml
 main.iml
